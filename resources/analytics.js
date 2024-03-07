@@ -20,3 +20,4 @@ Don't be afraid to give up the good to go for the great. Performance Multi-threa
 Security Container Orchestration Optimization Automation Frontend Firewalls Database Indexing Code Review DevOps Quantum Computing
 Algorithm Frontend Database Kubernetes Predictive Analytics API Gateway Success is how high you bounce when you hit bottom. Sharding Success usually comes to those who are too busy to be looking for it. OAuth A/B Testing Quantum Computing
 Neural Networks Event Sourcing Predictive Analytics Cloud Lambda Functions Big Data
+Data Science The only way to do great work is to love what you do. Machine Learning Security API Docker Don't be afraid to give up the good to go for the great. Testing WebSockets JavaScript
