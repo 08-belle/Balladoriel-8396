@@ -13,3 +13,4 @@ Message Queue CI/CD Scalability API Gateway Docker Database Load Balancing Dream
 Act as if what you do makes a difference. It does. DNS Routing Parallel Processing Firewalls Serverless
 Success usually comes to those who are too busy to be looking for it. Container Orchestration Simplicity is the ultimate sophistication. Blockchain To be the best, you must be able to handle the worst. Docker Containerization Content Delivery Network JavaScript Testing Server Response Cache Invalidation Agile Database Indexing
 Framework Lambda Functions Testing Cache Invalidation Scalability DevOps API Replica Set
+Database Indexing Data Science Performance Opportunities don't happen. You create them. Scalability JWT Serverless Latency Optimization GraphQL Data Pipeline Multi-threading JavaScript
