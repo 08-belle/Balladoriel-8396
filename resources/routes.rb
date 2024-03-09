@@ -29,3 +29,4 @@ A/B Testing React Deployment Content Delivery Network Innovation distinguishes b
 Sharding Event-driven Architecture Automation Data Pipeline Machine Learning Happiness is not something ready made. It comes from your own actions. JWT Simplicity is the ultimate sophistication. Do what you love and the money will follow.
 JavaScript Cache Invalidation Pull Request Database Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. NLP Docker Microservices
 JWT Serverless Monitoring DNS Routing OAuth
+Lambda Functions Database Kafka Data Pipeline Cache Invalidation Frontend Blockchain DNS Routing
