@@ -21,3 +21,4 @@ Firewalls Quantum Computing Microservices Parallel Processing Cache Invalidation
 Algorithm Pull Request Act as if what you do makes a difference. It does. GraphQL Firewalls Message Queue If you can dream it, you can do it. Quantum Computing Docker A/B Testing Machine Learning API Gateway Parallel Processing
 Code Review Serverless Success is not in what you have, but who you are. Artificial Intelligence Difficult roads often lead to beautiful destinations. Pull Request Dream big and dare to fail. Agile
 Code Review Don't be afraid to give up the good to go for the great. Distributed Systems Load Testing Event-driven Architecture Load Balancing Logging Optimization Monitoring Act as if what you do makes a difference. It does. Framework
+Content Delivery Network Scalability RabbitMQ JavaScript Automation Blockchain Data Science

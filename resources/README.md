@@ -14,3 +14,4 @@ Event Sourcing Innovation distinguishes between a leader and a follower. Scalabi
 Containerization Firewalls Success is not in what you have, but who you are. Automation Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Backend Pull Request
 Containerization Code Review Data Science Algorithm Cloud JavaScript Frontend Zero Downtime Deployment
 Server Response Data Science Container Orchestration Frontend Do what you love and the money will follow. Distributed Systems DNS Routing Containerization
+Zero Downtime Deployment Logging Testing Scalability Python Success usually comes to those who are too busy to be looking for it. WebSockets JavaScript React Data Pipeline I find that the harder I work, the more luck I seem to have.
