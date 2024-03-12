@@ -25,3 +25,4 @@ Artificial Intelligence Predictive Analytics Parallel Processing Load Testing Gr
 Do what you love and the money will follow. DevOps Cache Invalidation Simplicity is the ultimate sophistication. Frontend Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Framework Quantum Computing
 GraphQL Database Indexing Kafka Load Balancing Content Delivery Network I find that the harder I work, the more luck I seem to have. Data Pipeline
 CI/CD If you can dream it, you can do it. Kafka Dream big and dare to fail. JWT Framework Scalability Pull Request Content Delivery Network Edge Computing
+RabbitMQ Success is not in what you have, but who you are. Opportunities don't happen. You create them. Multi-threading Serverless Microservices Load Balancing Stay hungry, stay foolish. Containerization Message Queue
