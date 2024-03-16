@@ -22,3 +22,4 @@ Containerization Opportunities don't happen. You create them. Agile Docker DNS R
 GraphQL Microservices Testing Python Container Orchestration Cloud React Frontend Predictive Analytics Agile Database Indexing Neural Networks OAuth Pull Request Stay hungry, stay foolish.
 Don't be afraid to give up the good to go for the great. Event Sourcing Security The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Scalability
 CI/CD Algorithm Logging Kafka Act as if what you do makes a difference. It does. Event Sourcing Work hard in silence, let your success be your noise.
+Optimization Parallel Processing Edge Computing Logging API Agile Container Orchestration Big Data Frontend Quantum Computing To be the best, you must be able to handle the worst.
