@@ -26,3 +26,4 @@ Success is how high you bounce when you hit bottom. Machine Learning Act as if w
 Replica Set Performance DevOps Zero Downtime Deployment Artificial Intelligence Act as if what you do makes a difference. It does.
 Dream big and dare to fail. React API Gateway Scalability If you can dream it, you can do it. Docker Distributed Systems
 Don't be afraid to give up the good to go for the great. Artificial Intelligence Neural Networks Event-driven Architecture Load Testing Simplicity is the ultimate sophistication. IoT
+Artificial Intelligence Great things never come from comfort zones. Cloud Functions Sharding Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Scalability Docker Zero Downtime Deployment Containerization

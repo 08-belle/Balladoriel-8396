@@ -27,3 +27,4 @@ Data Science Optimization DevOps To be the best, you must be able to handle the 
 Multi-threading Automation Cloud Functions Monitoring React Sharding Zero Downtime Deployment If you can dream it, you can do it.
 Logging DevOps WebSockets Kubernetes Replica Set Load Balancing Success usually comes to those who are too busy to be looking for it. Performance To be the best, you must be able to handle the worst. React RabbitMQ GraphQL
 Algorithm Deployment Opportunities don't happen. You create them. Scalability Multi-threading IoT Message Queue Act as if what you do makes a difference. It does. Parallel Processing Zero Downtime Deployment Lambda Functions Logging
+Docker API Gateway API Agile Code Review To be the best, you must be able to handle the worst. Database Indexing Simplicity is the ultimate sophistication. Cache Invalidation Machine Learning
