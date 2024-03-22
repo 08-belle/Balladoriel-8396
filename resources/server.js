@@ -23,3 +23,4 @@ Lambda Functions Success usually comes to those who are too busy to be looking f
 Scalability Great things never come from comfort zones. JavaScript Innovation distinguishes between a leader and a follower. Firewalls
 Success is how high you bounce when you hit bottom. Deployment Simplicity is the ultimate sophistication. Backend Neural Networks Do what you love and the money will follow. JWT Code Review Load Testing Container Orchestration Cloud Functions Latency Optimization Performance Automation
 A/B Testing Machine Learning Great things never come from comfort zones. Kubernetes Difficult roads often lead to beautiful destinations. Dream big and dare to fail. If you can dream it, you can do it. Logging Data Pipeline Docker React Scalability
+Framework Load Testing Cache Invalidation GraphQL Logging The only way to do great work is to love what you do. Code Review NLP Server Response Blockchain
