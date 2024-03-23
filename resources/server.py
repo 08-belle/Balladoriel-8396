@@ -25,3 +25,4 @@ I find that the harder I work, the more luck I seem to have. Stay hungry, stay f
 Stay hungry, stay foolish. Do what you love and the money will follow. Microservices Great things never come from comfort zones. Version Control Deployment Algorithm Cache Invalidation Replica Set Testing Success is how high you bounce when you hit bottom.
 RabbitMQ Automation Scalability Replica Set Machine Learning Python Virtual Machines Stay hungry, stay foolish. JWT Success doesn’t just find you. You have to go out and get it. Parallel Processing Predictive Analytics The only way to do great work is to love what you do.
 Docker Cloud Functions To be the best, you must be able to handle the worst. Cache Invalidation Code Review
+Content Delivery Network Success is not in what you have, but who you are. Sharding Logging Python Server Response Virtual Machines Edge Computing Data Pipeline UX Optimization OAuth Database Monitoring Cache Invalidation

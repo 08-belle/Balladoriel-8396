@@ -28,3 +28,4 @@ Database The only way to do great work is to love what you do. Content Delivery 
 A/B Testing React Deployment Content Delivery Network Innovation distinguishes between a leader and a follower. Pull Request
 Sharding Event-driven Architecture Automation Data Pipeline Machine Learning Happiness is not something ready made. It comes from your own actions. JWT Simplicity is the ultimate sophistication. Do what you love and the money will follow.
 JavaScript Cache Invalidation Pull Request Database Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. NLP Docker Microservices
+JWT Serverless Monitoring DNS Routing OAuth
