@@ -23,3 +23,4 @@ Simplicity is the ultimate sophistication. Security Python API Gateway Difficult
 Success is not in what you have, but who you are. Database Agile Blockchain Logging
 JWT Cache Invalidation IoT Framework Pull Request Blockchain
 Cloud Functions OAuth Deployment Containerization Predictive Analytics Success is how high you bounce when you hit bottom. API Gateway Data Pipeline Zero Downtime Deployment Virtual Machines
+Big Data Pull Request Logging Dream big and dare to fail. If you can dream it, you can do it. Act as if what you do makes a difference. It does. NLP Python CI/CD Deployment Success is not in what you have, but who you are. Neural Networks Agile Microservices Database
