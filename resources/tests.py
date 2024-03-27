@@ -25,3 +25,4 @@ CI/CD Containerization Don't be afraid to give up the good to go for the great. 
 Success is how high you bounce when you hit bottom. Machine Learning Act as if what you do makes a difference. It does. Database Indexing Zero Downtime Deployment Event Sourcing Serverless React API Server Response DevOps Microservices
 Replica Set Performance DevOps Zero Downtime Deployment Artificial Intelligence Act as if what you do makes a difference. It does.
 Dream big and dare to fail. React API Gateway Scalability If you can dream it, you can do it. Docker Distributed Systems
+Don't be afraid to give up the good to go for the great. Artificial Intelligence Neural Networks Event-driven Architecture Load Testing Simplicity is the ultimate sophistication. IoT
