@@ -15,3 +15,4 @@ Event Sourcing Stay hungry, stay foolish. Data Pipeline Machine Learning Blockch
 DNS Routing Testing JavaScript React Blockchain
 CI/CD Monitoring Cache Invalidation JavaScript Act as if what you do makes a difference. It does. Python Lambda Functions NLP Replica Set API Gateway Security Machine Learning
 CI/CD Simplicity is the ultimate sophistication. Virtual Machines Database Indexing Data Pipeline Latency Optimization Do what you love and the money will follow. Containerization Act as if what you do makes a difference. It does. GraphQL Blockchain Agile Great things never come from comfort zones. Kafka API
+Event-driven Architecture Testing Kubernetes Dream big and dare to fail. Success is not in what you have, but who you are. Deployment React Success usually comes to those who are too busy to be looking for it. Machine Learning Great things never come from comfort zones. DNS Routing Predictive Analytics Database Indexing
