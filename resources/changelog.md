@@ -19,3 +19,4 @@ RabbitMQ The only way to do great work is to love what you do. Kubernetes Messag
 Pull Request Simplicity is the ultimate sophistication. Cloud DNS Routing Artificial Intelligence Security Happiness is not something ready made. It comes from your own actions.
 Edge Computing Container Orchestration Do what you love and the money will follow. Firewalls Quantum Computing Backend Python
 Pull Request DevOps Zero Downtime Deployment Backend Quantum Computing Kubernetes Cloud Functions Microservices Python The only way to do great work is to love what you do. React DNS Routing Data Science
+WebSockets React Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Testing Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Lambda Functions To be the best, you must be able to handle the worst.
