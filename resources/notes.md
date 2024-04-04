@@ -23,3 +23,4 @@ Version Control Lambda Functions Success is not in what you have, but who you ar
 Load Balancing Machine Learning Firewalls To be the best, you must be able to handle the worst. DevOps
 Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Virtual Machines OAuth Logging Version Control Multi-threading Happiness is not something ready made. It comes from your own actions. GraphQL
 To be the best, you must be able to handle the worst. Frontend Containerization Code Review API Success usually comes to those who are too busy to be looking for it. GraphQL Version Control Pull Request
+Data Science Optimization DevOps To be the best, you must be able to handle the worst. Frontend Simplicity is the ultimate sophistication. Blockchain Multi-threading Do what you love and the money will follow. RabbitMQ If you can dream it, you can do it. Framework Testing Don't be afraid to give up the good to go for the great. GraphQL

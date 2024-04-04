@@ -24,3 +24,4 @@ Server Response Cloud Functions NLP Algorithm Testing Serverless Artificial Inte
 Artificial Intelligence Predictive Analytics Parallel Processing Load Testing Great things never come from comfort zones. Monitoring Cloud API Quantum Computing Automation Distributed Systems
 Do what you love and the money will follow. DevOps Cache Invalidation Simplicity is the ultimate sophistication. Frontend Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Framework Quantum Computing
 GraphQL Database Indexing Kafka Load Balancing Content Delivery Network I find that the harder I work, the more luck I seem to have. Data Pipeline
+CI/CD If you can dream it, you can do it. Kafka Dream big and dare to fail. JWT Framework Scalability Pull Request Content Delivery Network Edge Computing
