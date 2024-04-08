@@ -17,3 +17,4 @@ Success usually comes to those who are too busy to be looking for it. Difficult 
 Monitoring CI/CD Cache Invalidation Data Pipeline UX Optimization Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. If you can dream it, you can do it. Dream big and dare to fail. Parallel Processing
 Event-driven Architecture Load Testing Message Queue Pull Request Logging Cache Invalidation Success usually comes to those who are too busy to be looking for it. NLP
 Framework RabbitMQ API Gateway Success is not in what you have, but who you are. Scalability Parallel Processing JavaScript Lambda Functions
+Multi-threading Blockchain DNS Routing Database I find that the harder I work, the more luck I seem to have. Firewalls Innovation distinguishes between a leader and a follower.
