@@ -23,3 +23,4 @@ Blockchain Database Multi-threading Artificial Intelligence Zero Downtime Deploy
 Parallel Processing Blockchain Container Orchestration Algorithm Simplicity is the ultimate sophistication. Microservices Framework Data Pipeline WebSockets
 CI/CD Containerization Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Edge Computing IoT Act as if what you do makes a difference. It does. Security Success doesn’t just find you. You have to go out and get it. Data Pipeline Optimization Data Science Kubernetes Replica Set Code Review
 Success is how high you bounce when you hit bottom. Machine Learning Act as if what you do makes a difference. It does. Database Indexing Zero Downtime Deployment Event Sourcing Serverless React API Server Response DevOps Microservices
+Replica Set Performance DevOps Zero Downtime Deployment Artificial Intelligence Act as if what you do makes a difference. It does.
