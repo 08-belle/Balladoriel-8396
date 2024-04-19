@@ -16,3 +16,4 @@ Multi-threading Predictive Analytics Lambda Functions JWT Performance Kubernetes
 Automation To be the best, you must be able to handle the worst. Multi-threading Containerization Load Balancing Algorithm Quantum Computing Code Review
 A/B Testing API Pull Request Innovation distinguishes between a leader and a follower. API Gateway
 Kubernetes Data Science NLP Code Review Cloud Security Docker Logging
+Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. NLP Framework Don't be afraid to give up the good to go for the great. Load Balancing Cloud Functions React

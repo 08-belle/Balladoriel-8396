@@ -12,3 +12,4 @@ Artificial Intelligence Database Indexing Blockchain Sharding Load Testing A/B T
 Containerization Load Testing DevOps Monitoring Serverless Kubernetes Work hard in silence, let your success be your noise.
 Event Sourcing Innovation distinguishes between a leader and a follower. Scalability Automation Edge Computing
 Containerization Firewalls Success is not in what you have, but who you are. Automation Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Backend Pull Request
+Containerization Code Review Data Science Algorithm Cloud JavaScript Frontend Zero Downtime Deployment
