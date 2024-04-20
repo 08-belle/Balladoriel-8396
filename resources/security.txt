@@ -19,3 +19,4 @@ Code Review Load Balancing JWT JavaScript RabbitMQ
 JWT Deployment Agile Firewalls RabbitMQ Server Response Difficult roads often lead to beautiful destinations. Data Science Database Indexing Latency Optimization Python Parallel Processing Lambda Functions Content Delivery Network
 Multi-threading Data Science NLP Kubernetes RabbitMQ DNS Routing CI/CD Kafka Frontend Artificial Intelligence Success doesn’t just find you. You have to go out and get it.
 Containerization Opportunities don't happen. You create them. Agile Docker DNS Routing Pull Request Container Orchestration Scalability Kubernetes NLP JavaScript Stay hungry, stay foolish. Parallel Processing
+GraphQL Microservices Testing Python Container Orchestration Cloud React Frontend Predictive Analytics Agile Database Indexing Neural Networks OAuth Pull Request Stay hungry, stay foolish.
