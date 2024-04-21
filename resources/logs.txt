@@ -19,3 +19,4 @@ JavaScript Firewalls RabbitMQ Event Sourcing Quantum Computing Neural Networks D
 Database Database Indexing GraphQL Deployment Scalability Frontend
 Do what you love and the money will follow. Testing Serverless Kubernetes Logging Simplicity is the ultimate sophistication. Cache Invalidation
 Database Data Science Parallel Processing Innovation distinguishes between a leader and a follower. Automation RabbitMQ Load Balancing Great things never come from comfort zones. Event-driven Architecture Containerization Microservices Edge Computing Predictive Analytics Sharding
+CI/CD DNS Routing Testing Automation Load Testing Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. GraphQL Data Science Simplicity is the ultimate sophistication. Neural Networks Backend
