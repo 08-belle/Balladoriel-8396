@@ -10,3 +10,4 @@ Code Review NLP I find that the harder I work, the more luck I seem to have. Loa
 Zero Downtime Deployment Docker Database Server Response JWT Python Success doesn’t just find you. You have to go out and get it. Cloud Functions Cloud Logging
 DevOps Distributed Systems Docker Performance Sharding To be the best, you must be able to handle the worst. Version Control Success is how high you bounce when you hit bottom. Kafka Great things never come from comfort zones. Kubernetes
 Message Queue CI/CD Scalability API Gateway Docker Database Load Balancing Dream big and dare to fail. Latency Optimization Python Innovation distinguishes between a leader and a follower. Machine Learning Code Review Predictive Analytics
+Act as if what you do makes a difference. It does. DNS Routing Parallel Processing Firewalls Serverless
