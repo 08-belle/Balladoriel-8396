@@ -22,3 +22,4 @@ Automation Opportunities don't happen. You create them. Simplicity is the ultima
 Do what you love and the money will follow. To be the best, you must be able to handle the worst. Server Response Zero Downtime Deployment Machine Learning Python Simplicity is the ultimate sophistication.
 Machine Learning Event Sourcing Cloud Functions Kubernetes Lambda Functions Serverless CI/CD JavaScript Cloud Performance Distributed Systems UX Optimization Event-driven Architecture Firewalls
 I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Containerization Kubernetes Scalability Logging Edge Computing DevOps Optimization
+Stay hungry, stay foolish. Do what you love and the money will follow. Microservices Great things never come from comfort zones. Version Control Deployment Algorithm Cache Invalidation Replica Set Testing Success is how high you bounce when you hit bottom.
