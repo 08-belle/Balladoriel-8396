@@ -15,3 +15,4 @@ Machine Learning Work hard in silence, let your success be your noise. Testing C
 Multi-threading Predictive Analytics Lambda Functions JWT Performance Kubernetes Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Data Science Success is how high you bounce when you hit bottom. Version Control Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Firewalls Success usually comes to those who are too busy to be looking for it.
 Automation To be the best, you must be able to handle the worst. Multi-threading Containerization Load Balancing Algorithm Quantum Computing Code Review
 A/B Testing API Pull Request Innovation distinguishes between a leader and a follower. API Gateway
+Kubernetes Data Science NLP Code Review Cloud Security Docker Logging
