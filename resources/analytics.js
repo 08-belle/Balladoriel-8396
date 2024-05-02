@@ -14,3 +14,4 @@ A/B Testing React OAuth Python Optimization Scalability Data Pipeline Replica Se
 Happiness is not something ready made. It comes from your own actions. Kafka If you can dream it, you can do it. Security DevOps
 Machine Learning Act as if what you do makes a difference. It does. Distributed Systems Kubernetes RabbitMQ Pull Request Neural Networks React Code Review Parallel Processing Cloud Functions Cloud Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Monitoring
 Success doesn’t just find you. You have to go out and get it. Performance Server Response Database Indexing API Gateway Optimization Docker Opportunities don't happen. You create them. Containerization Distributed Systems IoT Data Science Framework Act as if what you do makes a difference. It does.
+API Gateway Firewalls JavaScript UX Optimization Microservices OAuth
