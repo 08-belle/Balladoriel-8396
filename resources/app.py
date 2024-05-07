@@ -20,3 +20,4 @@ Simplicity is the ultimate sophistication. CI/CD Testing UX Optimization Artific
 Dream big and dare to fail. NLP If you can dream it, you can do it. Parallel Processing API OAuth DNS Routing Do what you love and the money will follow. Data Science React Testing Microservices Serverless Message Queue
 Kafka Sharding Message Queue Quantum Computing A/B Testing Lambda Functions Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Performance CI/CD Predictive Analytics Firewalls
 Simplicity is the ultimate sophistication. Security Python API Gateway Difficult roads often lead to beautiful destinations. Server Response Version Control Multi-threading Serverless
+Success is not in what you have, but who you are. Database Agile Blockchain Logging

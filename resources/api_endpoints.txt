@@ -13,3 +13,4 @@ Edge Computing Server Response Event-driven Architecture Happiness is not someth
 Great things never come from comfort zones. Dream big and dare to fail. Parallel Processing The only way to do great work is to love what you do. Do what you love and the money will follow. Data Pipeline Event-driven Architecture Container Orchestration Simplicity is the ultimate sophistication. Edge Computing Work hard in silence, let your success be your noise. Replica Set
 Replica Set NLP Kafka Containerization Content Delivery Network API Message Queue Database Monitoring Big Data JavaScript
 JWT A/B Testing Sharding Database Load Balancing Cloud Scalability
+Kafka API Gateway DNS Routing Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Security Big Data The only way to do great work is to love what you do. Backend A/B Testing Python
