@@ -17,3 +17,4 @@ JavaScript Lambda Functions Success doesn’t just find you. You have to go out an
 IoT WebSockets Stay hungry, stay foolish. Data Pipeline Server Response Automation Serverless Performance Kubernetes The only way to do great work is to love what you do. Message Queue OAuth
 RabbitMQ The only way to do great work is to love what you do. Kubernetes Message Queue Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Replica Set Database Indexing Container Orchestration NLP Code Review Do what you love and the money will follow. Data Science Act as if what you do makes a difference. It does. GraphQL
 Pull Request Simplicity is the ultimate sophistication. Cloud DNS Routing Artificial Intelligence Security Happiness is not something ready made. It comes from your own actions.
+Edge Computing Container Orchestration Do what you love and the money will follow. Firewalls Quantum Computing Backend Python

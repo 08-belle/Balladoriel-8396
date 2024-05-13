@@ -14,3 +14,4 @@ To be the best, you must be able to handle the worst. Database Latency Optimizat
 Event Sourcing Stay hungry, stay foolish. Data Pipeline Machine Learning Blockchain Testing
 DNS Routing Testing JavaScript React Blockchain
 CI/CD Monitoring Cache Invalidation JavaScript Act as if what you do makes a difference. It does. Python Lambda Functions NLP Replica Set API Gateway Security Machine Learning
+CI/CD Simplicity is the ultimate sophistication. Virtual Machines Database Indexing Data Pipeline Latency Optimization Do what you love and the money will follow. Containerization Act as if what you do makes a difference. It does. GraphQL Blockchain Agile Great things never come from comfort zones. Kafka API
