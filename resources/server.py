@@ -20,3 +20,4 @@ Code Review Difficult roads often lead to beautiful destinations. Docker UX Opti
 Automation Kafka Lambda Functions API Edge Computing JWT Blockchain Great things never come from comfort zones.
 Automation Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Server Response Great things never come from comfort zones. Replica Set Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Testing
 Do what you love and the money will follow. To be the best, you must be able to handle the worst. Server Response Zero Downtime Deployment Machine Learning Python Simplicity is the ultimate sophistication.
+Machine Learning Event Sourcing Cloud Functions Kubernetes Lambda Functions Serverless CI/CD JavaScript Cloud Performance Distributed Systems UX Optimization Event-driven Architecture Firewalls
