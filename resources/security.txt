@@ -17,3 +17,4 @@ Data Science Parallel Processing WebSockets DevOps Version Control Don't be afra
 The only way to do great work is to love what you do. Opportunities don't happen. You create them. Agile Kubernetes NLP Database Indexing
 Code Review Load Balancing JWT JavaScript RabbitMQ
 JWT Deployment Agile Firewalls RabbitMQ Server Response Difficult roads often lead to beautiful destinations. Data Science Database Indexing Latency Optimization Python Parallel Processing Lambda Functions Content Delivery Network
+Multi-threading Data Science NLP Kubernetes RabbitMQ DNS Routing CI/CD Kafka Frontend Artificial Intelligence Success doesn’t just find you. You have to go out and get it.
