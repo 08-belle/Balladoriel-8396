@@ -12,3 +12,4 @@ Do what you love and the money will follow. Machine Learning Don't be afraid to 
 API Gateway Monitoring GraphQL I find that the harder I work, the more luck I seem to have. Kafka Predictive Analytics Firewalls JavaScript If you can dream it, you can do it. Logging Serverless Data Science A/B Testing Success is how high you bounce when you hit bottom. Machine Learning
 To be the best, you must be able to handle the worst. Database Latency Optimization Container Orchestration Act as if what you do makes a difference. It does. Python Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Microservices Happiness is not something ready made. It comes from your own actions. Serverless Machine Learning Success usually comes to those who are too busy to be looking for it.
 Event Sourcing Stay hungry, stay foolish. Data Pipeline Machine Learning Blockchain Testing
+DNS Routing Testing JavaScript React Blockchain
