@@ -20,3 +20,4 @@ CI/CD Edge Computing Server Response Success doesn’t just find you. You have to 
 RabbitMQ Pull Request Server Response Database Version Control
 API DevOps Work hard in silence, let your success be your noise. JWT Data Science
 Message Queue Security Latency Optimization Algorithm Docker Dream big and dare to fail. Serverless I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Database Indexing OAuth Success usually comes to those who are too busy to be looking for it.
+Lambda Functions React Deployment Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment NLP Agile Containerization
