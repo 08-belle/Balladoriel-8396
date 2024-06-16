@@ -10,3 +10,4 @@ IoT Testing Framework DNS Routing API Containerization Lambda Functions Innovati
 Container Orchestration Database OAuth Serverless Virtual Machines Do what you love and the money will follow. Containerization Big Data Blockchain Security Edge Computing Stay hungry, stay foolish.
 Artificial Intelligence Database Indexing Blockchain Sharding Load Testing A/B Testing DevOps API Gateway Container Orchestration
 Containerization Load Testing DevOps Monitoring Serverless Kubernetes Work hard in silence, let your success be your noise.
+Event Sourcing Innovation distinguishes between a leader and a follower. Scalability Automation Edge Computing

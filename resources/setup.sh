@@ -16,3 +16,4 @@ Don't be afraid to give up the good to go for the great. Serverless Dream big an
 DNS Routing Machine Learning Code Review Content Delivery Network Load Balancing Lambda Functions Dream big and dare to fail.
 Cloud Quantum Computing Great things never come from comfort zones. Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Parallel Processing Kafka
 Cloud Functions Firewalls Logging Load Balancing Frontend Cloud Lambda Functions
+OAuth I find that the harder I work, the more luck I seem to have. Content Delivery Network Security Container Orchestration Work hard in silence, let your success be your noise. RabbitMQ Neural Networks Version Control React Firewalls UX Optimization Parallel Processing Optimization Replica Set
