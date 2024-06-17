@@ -11,3 +11,4 @@ Success usually comes to those who are too busy to be looking for it. Artificial
 Algorithm Database Blockchain Python Act as if what you do makes a difference. It does. JWT Latency Optimization Data Science IoT If you can dream it, you can do it. Database Indexing
 JavaScript Data Pipeline Docker Optimization Scalability
 Cache Invalidation Data Science Firewalls Latency Optimization Success doesn’t just find you. You have to go out and get it. React Microservices Lambda Functions Great things never come from comfort zones. WebSockets A/B Testing Docker RabbitMQ Testing
+Code Review Logging Automation Success is not in what you have, but who you are. Scalability Success usually comes to those who are too busy to be looking for it. Load Balancing A/B Testing Distributed Systems Don't be afraid to give up the good to go for the great. GraphQL API Gateway Agile Success doesn’t just find you. You have to go out and get it. CI/CD
