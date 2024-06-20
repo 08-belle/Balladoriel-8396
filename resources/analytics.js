@@ -12,3 +12,4 @@ Event Sourcing Monitoring Container Orchestration React Server Response Deployme
 Virtual Machines RabbitMQ Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Neural Networks Data Pipeline Container Orchestration Data Science
 A/B Testing React OAuth Python Optimization Scalability Data Pipeline Replica Set CI/CD
 Happiness is not something ready made. It comes from your own actions. Kafka If you can dream it, you can do it. Security DevOps
+Machine Learning Act as if what you do makes a difference. It does. Distributed Systems Kubernetes RabbitMQ Pull Request Neural Networks React Code Review Parallel Processing Cloud Functions Cloud Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Monitoring

@@ -9,3 +9,4 @@ Predictive Analytics Cache Invalidation Success is not in what you have, but who
 IoT Testing Framework DNS Routing API Containerization Lambda Functions Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Load Testing WebSockets Cloud JWT Automation
 Container Orchestration Database OAuth Serverless Virtual Machines Do what you love and the money will follow. Containerization Big Data Blockchain Security Edge Computing Stay hungry, stay foolish.
 Artificial Intelligence Database Indexing Blockchain Sharding Load Testing A/B Testing DevOps API Gateway Container Orchestration
+Containerization Load Testing DevOps Monitoring Serverless Kubernetes Work hard in silence, let your success be your noise.
