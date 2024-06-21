@@ -8,3 +8,4 @@ Parallel Processing Simplicity is the ultimate sophistication. Event-driven Arch
 Containerization Code Review Monitoring Serverless Great things never come from comfort zones. Virtual Machines Happiness is not something ready made. It comes from your own actions. Logging OAuth Performance
 Code Review NLP I find that the harder I work, the more luck I seem to have. Load Balancing Latency Optimization Data Pipeline Machine Learning CI/CD DevOps Security Serverless
 Zero Downtime Deployment Docker Database Server Response JWT Python Success doesn’t just find you. You have to go out and get it. Cloud Functions Cloud Logging
+DevOps Distributed Systems Docker Performance Sharding To be the best, you must be able to handle the worst. Version Control Success is how high you bounce when you hit bottom. Kafka Great things never come from comfort zones. Kubernetes
