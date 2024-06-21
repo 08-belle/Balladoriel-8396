@@ -14,3 +14,4 @@ Monitoring Zero Downtime Deployment Replica Set Simplicity is the ultimate sophi
 Big Data JavaScript Cloud Load Testing Stay hungry, stay foolish. Logging Python
 Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Virtual Machines Server Response Content Delivery Network JavaScript Success is how high you bounce when you hit bottom. Sharding
 Testing Framework Work hard in silence, let your success be your noise. Kafka Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. GraphQL UX Optimization Opportunities don't happen. You create them. Pull Request
+UX Optimization The only way to do great work is to love what you do. Frontend Stay hungry, stay foolish. CI/CD Cloud Functions DevOps Difficult roads often lead to beautiful destinations. Data Science Message Queue Big Data
