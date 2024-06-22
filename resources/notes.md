@@ -17,3 +17,4 @@ Kafka I find that the harder I work, the more luck I seem to have. IoT Container
 Dream big and dare to fail. OAuth Testing CI/CD Serverless Monitoring DNS Routing Deployment Automation Sharding
 Virtual Machines Agile A/B Testing Cache Invalidation Kafka Big Data Predictive Analytics Server Response Optimization Replica Set Data Science Simplicity is the ultimate sophistication.
 Do what you love and the money will follow. Data Science Predictive Analytics Database Docker Framework Great things never come from comfort zones. If you can dream it, you can do it. IoT Containerization Logging Lambda Functions
+Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Framework Pull Request A/B Testing Server Response Python The only way to do great work is to love what you do. If you can dream it, you can do it. UX Optimization
