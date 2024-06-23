@@ -7,3 +7,4 @@ Replica Set Kubernetes Pull Request Big Data Lambda Functions Testing Opportunit
 Parallel Processing Simplicity is the ultimate sophistication. Event-driven Architecture Container Orchestration Serverless Machine Learning Neural Networks Algorithm RabbitMQ
 Containerization Code Review Monitoring Serverless Great things never come from comfort zones. Virtual Machines Happiness is not something ready made. It comes from your own actions. Logging OAuth Performance
 Code Review NLP I find that the harder I work, the more luck I seem to have. Load Balancing Latency Optimization Data Pipeline Machine Learning CI/CD DevOps Security Serverless
+Zero Downtime Deployment Docker Database Server Response JWT Python Success doesn’t just find you. You have to go out and get it. Cloud Functions Cloud Logging
