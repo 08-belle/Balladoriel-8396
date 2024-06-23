@@ -21,3 +21,4 @@ Big Data IoT Difficult roads often lead to beautiful destinations. Success is ho
 Code Review Innovation distinguishes between a leader and a follower. CI/CD Success doesn’t just find you. You have to go out and get it. Virtual Machines Backend
 Blockchain Database Multi-threading Artificial Intelligence Zero Downtime Deployment Deployment Distributed Systems Load Testing Container Orchestration
 Parallel Processing Blockchain Container Orchestration Algorithm Simplicity is the ultimate sophistication. Microservices Framework Data Pipeline WebSockets
+CI/CD Containerization Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Edge Computing IoT Act as if what you do makes a difference. It does. Security Success doesn’t just find you. You have to go out and get it. Data Pipeline Optimization Data Science Kubernetes Replica Set Code Review
