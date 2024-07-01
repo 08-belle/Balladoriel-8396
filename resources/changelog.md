@@ -14,3 +14,4 @@ Security Content Delivery Network Cache Invalidation Event Sourcing Frontend
 API Gateway To be the best, you must be able to handle the worst. Do what you love and the money will follow. Load Testing Data Pipeline Simplicity is the ultimate sophistication. Database Indexing Act as if what you do makes a difference. It does. Distributed Systems Event Sourcing
 Frontend Scalability API Security CI/CD JWT Happiness is not something ready made. It comes from your own actions.
 JavaScript Lambda Functions Success doesn’t just find you. You have to go out and get it. Multi-threading Blockchain The only way to do great work is to love what you do. Framework Machine Learning
+IoT WebSockets Stay hungry, stay foolish. Data Pipeline Server Response Automation Serverless Performance Kubernetes The only way to do great work is to love what you do. Message Queue OAuth
