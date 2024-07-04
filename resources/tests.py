@@ -20,3 +20,4 @@ Serverless Security UX Optimization API Gateway OAuth Backend Parallel Processin
 Big Data IoT Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Machine Learning Testing Neural Networks Monitoring Python Great things never come from comfort zones. Edge Computing Docker Virtual Machines Don't be afraid to give up the good to go for the great.
 Code Review Innovation distinguishes between a leader and a follower. CI/CD Success doesn’t just find you. You have to go out and get it. Virtual Machines Backend
 Blockchain Database Multi-threading Artificial Intelligence Zero Downtime Deployment Deployment Distributed Systems Load Testing Container Orchestration
+Parallel Processing Blockchain Container Orchestration Algorithm Simplicity is the ultimate sophistication. Microservices Framework Data Pipeline WebSockets
