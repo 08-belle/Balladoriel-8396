@@ -14,3 +14,4 @@ JWT Simplicity is the ultimate sophistication. OAuth Cloud Functions Kubernetes
 Do what you love and the money will follow. Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Cloud Functions Sharding Framework Container Orchestration Kafka
 Zero Downtime Deployment Testing DNS Routing Parallel Processing Cache Invalidation Lambda Functions Microservices Multi-threading Container Orchestration
 Data Science Parallel Processing WebSockets DevOps Version Control Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Optimization Blockchain Server Response Backend Multi-threading
+The only way to do great work is to love what you do. Opportunities don't happen. You create them. Agile Kubernetes NLP Database Indexing
