@@ -15,3 +15,4 @@ Scalability Neural Networks Success usually comes to those who are too busy to b
 Don't be afraid to give up the good to go for the great. Serverless Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Firewalls Automation IoT NLP Database Indexing Load Balancing Event-driven Architecture Server Response Happiness is not something ready made. It comes from your own actions. JWT
 DNS Routing Machine Learning Code Review Content Delivery Network Load Balancing Lambda Functions Dream big and dare to fail.
 Cloud Quantum Computing Great things never come from comfort zones. Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Parallel Processing Kafka
+Cloud Functions Firewalls Logging Load Balancing Frontend Cloud Lambda Functions

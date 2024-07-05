@@ -11,3 +11,4 @@ Neural Networks Container Orchestration Microservices Server Response Innovation
 Event Sourcing Monitoring Container Orchestration React Server Response Deployment Testing Containerization Code Review Innovation distinguishes between a leader and a follower. A/B Testing JWT
 Virtual Machines RabbitMQ Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Neural Networks Data Pipeline Container Orchestration Data Science
 A/B Testing React OAuth Python Optimization Scalability Data Pipeline Replica Set CI/CD
+Happiness is not something ready made. It comes from your own actions. Kafka If you can dream it, you can do it. Security DevOps

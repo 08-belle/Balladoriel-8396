@@ -16,3 +16,4 @@ CI/CD Data Pipeline Difficult roads often lead to beautiful destinations. API Ga
 Kafka I find that the harder I work, the more luck I seem to have. IoT Container Orchestration Framework Replica Set Data Science React JWT Event Sourcing Sharding Code Review Logging
 Dream big and dare to fail. OAuth Testing CI/CD Serverless Monitoring DNS Routing Deployment Automation Sharding
 Virtual Machines Agile A/B Testing Cache Invalidation Kafka Big Data Predictive Analytics Server Response Optimization Replica Set Data Science Simplicity is the ultimate sophistication.
+Do what you love and the money will follow. Data Science Predictive Analytics Database Docker Framework Great things never come from comfort zones. If you can dream it, you can do it. IoT Containerization Logging Lambda Functions
