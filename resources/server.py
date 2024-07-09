@@ -17,3 +17,4 @@ Database Indexing RabbitMQ Dream big and dare to fail. Artificial Intelligence D
 Python OAuth Multi-threading DevOps Simplicity is the ultimate sophistication. If you can dream it, you can do it.
 Cloud Functions Sharding Container Orchestration Content Delivery Network DNS Routing Agile Do what you love and the money will follow. Lambda Functions Event Sourcing API Gateway Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Deployment Success is how high you bounce when you hit bottom.
 Code Review Difficult roads often lead to beautiful destinations. Docker UX Optimization Version Control Database Indexing CI/CD Lambda Functions
+Automation Kafka Lambda Functions API Edge Computing JWT Blockchain Great things never come from comfort zones.
