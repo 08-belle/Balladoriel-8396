@@ -12,3 +12,4 @@ Load Testing Neural Networks UX Optimization Database Indexing Serverless Multi-
 Edge Computing Server Response Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Data Pipeline Agile A/B Testing RabbitMQ API Monitoring GraphQL Database DevOps Backend Act as if what you do makes a difference. It does.
 Great things never come from comfort zones. Dream big and dare to fail. Parallel Processing The only way to do great work is to love what you do. Do what you love and the money will follow. Data Pipeline Event-driven Architecture Container Orchestration Simplicity is the ultimate sophistication. Edge Computing Work hard in silence, let your success be your noise. Replica Set
 Replica Set NLP Kafka Containerization Content Delivery Network API Message Queue Database Monitoring Big Data JavaScript
+JWT A/B Testing Sharding Database Load Balancing Cloud Scalability
