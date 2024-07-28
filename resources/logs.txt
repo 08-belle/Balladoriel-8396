@@ -12,3 +12,4 @@ Cloud Docker Zero Downtime Deployment Stay hungry, stay foolish. JavaScript Data
 Data Pipeline Container Orchestration Virtual Machines Event Sourcing Database Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations.
 Monitoring Zero Downtime Deployment Replica Set Simplicity is the ultimate sophistication. Version Control Agile Logging React Parallel Processing NLP Great things never come from comfort zones. Distributed Systems Cloud Data Pipeline Backend
 Big Data JavaScript Cloud Load Testing Stay hungry, stay foolish. Logging Python
+Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Virtual Machines Server Response Content Delivery Network JavaScript Success is how high you bounce when you hit bottom. Sharding
