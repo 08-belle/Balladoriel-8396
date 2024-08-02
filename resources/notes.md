@@ -15,3 +15,4 @@ JavaScript Happiness is not something ready made. It comes from your own actions
 CI/CD Data Pipeline Difficult roads often lead to beautiful destinations. API Gateway Automation WebSockets Framework DevOps Content Delivery Network Version Control Replica Set
 Kafka I find that the harder I work, the more luck I seem to have. IoT Container Orchestration Framework Replica Set Data Science React JWT Event Sourcing Sharding Code Review Logging
 Dream big and dare to fail. OAuth Testing CI/CD Serverless Monitoring DNS Routing Deployment Automation Sharding
+Virtual Machines Agile A/B Testing Cache Invalidation Kafka Big Data Predictive Analytics Server Response Optimization Replica Set Data Science Simplicity is the ultimate sophistication.
