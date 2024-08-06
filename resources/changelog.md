@@ -10,3 +10,4 @@ Predictive Analytics Multi-threading Database Indexing Data Pipeline Latency Opt
 CI/CD DNS Routing Load Balancing Predictive Analytics Microservices WebSockets Success is not in what you have, but who you are. Message Queue Version Control Big Data Blockchain Kafka
 Opportunities don't happen. You create them. Backend Distributed Systems Event-driven Architecture Automation Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. JWT Scalability Simplicity is the ultimate sophistication. Quantum Computing Python NLP
 A/B Testing Database Indexing Optimization Opportunities don't happen. You create them. Framework Parallel Processing Algorithm
+Security Content Delivery Network Cache Invalidation Event Sourcing Frontend
