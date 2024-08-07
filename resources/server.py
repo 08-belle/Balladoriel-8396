@@ -15,3 +15,4 @@ Success doesn’t just find you. You have to go out and get it. Kafka I find that 
 Success usually comes to those who are too busy to be looking for it. Database Predictive Analytics NLP Big Data React Pull Request Act as if what you do makes a difference. It does. Replica Set Blockchain Success doesn’t just find you. You have to go out and get it. Firewalls
 Database Indexing RabbitMQ Dream big and dare to fail. Artificial Intelligence Data Science Microservices
 Python OAuth Multi-threading DevOps Simplicity is the ultimate sophistication. If you can dream it, you can do it.
+Cloud Functions Sharding Container Orchestration Content Delivery Network DNS Routing Agile Do what you love and the money will follow. Lambda Functions Event Sourcing API Gateway Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Deployment Success is how high you bounce when you hit bottom.
