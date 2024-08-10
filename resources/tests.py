@@ -19,3 +19,4 @@ Frontend Content Delivery Network Containerization Virtual Machines The only way
 Serverless Security UX Optimization API Gateway OAuth Backend Parallel Processing Great things never come from comfort zones. Neural Networks Load Balancing Performance Event-driven Architecture Firewalls Cache Invalidation Lambda Functions
 Big Data IoT Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Machine Learning Testing Neural Networks Monitoring Python Great things never come from comfort zones. Edge Computing Docker Virtual Machines Don't be afraid to give up the good to go for the great.
 Code Review Innovation distinguishes between a leader and a follower. CI/CD Success doesn’t just find you. You have to go out and get it. Virtual Machines Backend
+Blockchain Database Multi-threading Artificial Intelligence Zero Downtime Deployment Deployment Distributed Systems Load Testing Container Orchestration
