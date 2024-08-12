@@ -13,3 +13,4 @@ I find that the harder I work, the more luck I seem to have. Latency Optimizatio
 Deployment Great things never come from comfort zones. Cache Invalidation Content Delivery Network Lambda Functions Agile
 JWT Parallel Processing Zero Downtime Deployment Deployment API Gateway Automation Security
 Act as if what you do makes a difference. It does. Optimization Load Testing Replica Set Code Review JWT Performance Opportunities don't happen. You create them. Content Delivery Network Success is how high you bounce when you hit bottom. Firewalls Big Data Kubernetes
+Innovation distinguishes between a leader and a follower. WebSockets Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Distributed Systems Automation Predictive Analytics
