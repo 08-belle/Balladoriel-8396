@@ -11,3 +11,4 @@ Great things never come from comfort zones. Event-driven Architecture Server Res
 Cloud Docker Zero Downtime Deployment Stay hungry, stay foolish. JavaScript Data Science Data Pipeline Don't be afraid to give up the good to go for the great. Code Review If you can dream it, you can do it. Version Control Kubernetes
 Data Pipeline Container Orchestration Virtual Machines Event Sourcing Database Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations.
 Monitoring Zero Downtime Deployment Replica Set Simplicity is the ultimate sophistication. Version Control Agile Logging React Parallel Processing NLP Great things never come from comfort zones. Distributed Systems Cloud Data Pipeline Backend
+Big Data JavaScript Cloud Load Testing Stay hungry, stay foolish. Logging Python
