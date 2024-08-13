@@ -14,3 +14,4 @@ Difficult roads often lead to beautiful destinations. UX Optimization Stay hungr
 Success doesn’t just find you. You have to go out and get it. Kafka I find that the harder I work, the more luck I seem to have. Logging To be the best, you must be able to handle the worst. Great things never come from comfort zones. Code Review Scalability
 Success usually comes to those who are too busy to be looking for it. Database Predictive Analytics NLP Big Data React Pull Request Act as if what you do makes a difference. It does. Replica Set Blockchain Success doesn’t just find you. You have to go out and get it. Firewalls
 Database Indexing RabbitMQ Dream big and dare to fail. Artificial Intelligence Data Science Microservices
+Python OAuth Multi-threading DevOps Simplicity is the ultimate sophistication. If you can dream it, you can do it.
