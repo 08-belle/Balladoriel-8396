@@ -9,3 +9,4 @@ Python Happiness is not something ready made. It comes from your own actions. Op
 Frontend Distributed Systems Serverless Artificial Intelligence Data Pipeline If you can dream it, you can do it.
 Lambda Functions Firewalls Cache Invalidation Great things never come from comfort zones. NLP Act as if what you do makes a difference. It does. Event Sourcing OAuth Edge Computing Backend
 Load Testing Neural Networks UX Optimization Database Indexing Serverless Multi-threading Python Database Don't be afraid to give up the good to go for the great. Performance
+Edge Computing Server Response Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Data Pipeline Agile A/B Testing RabbitMQ API Monitoring GraphQL Database DevOps Backend Act as if what you do makes a difference. It does.
