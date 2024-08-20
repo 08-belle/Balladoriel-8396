@@ -13,3 +13,4 @@ Serverless RabbitMQ I find that the harder I work, the more luck I seem to have.
 Don't be afraid to give up the good to go for the great. CI/CD WebSockets Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Container Orchestration Database Parallel Processing Testing RabbitMQ Security Frontend
 JavaScript Happiness is not something ready made. It comes from your own actions. Virtual Machines API Gateway CI/CD Kafka Load Testing
 CI/CD Data Pipeline Difficult roads often lead to beautiful destinations. API Gateway Automation WebSockets Framework DevOps Content Delivery Network Version Control Replica Set
+Kafka I find that the harder I work, the more luck I seem to have. IoT Container Orchestration Framework Replica Set Data Science React JWT Event Sourcing Sharding Code Review Logging
