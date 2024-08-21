@@ -12,3 +12,4 @@ Content Delivery Network Simplicity is the ultimate sophistication. I find that 
 I find that the harder I work, the more luck I seem to have. Latency Optimization Serverless Testing Load Testing Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Security Difficult roads often lead to beautiful destinations. Edge Computing Simplicity is the ultimate sophistication. Microservices A/B Testing Quantum Computing Database
 Deployment Great things never come from comfort zones. Cache Invalidation Content Delivery Network Lambda Functions Agile
 JWT Parallel Processing Zero Downtime Deployment Deployment API Gateway Automation Security
+Act as if what you do makes a difference. It does. Optimization Load Testing Replica Set Code Review JWT Performance Opportunities don't happen. You create them. Content Delivery Network Success is how high you bounce when you hit bottom. Firewalls Big Data Kubernetes
