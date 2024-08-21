@@ -12,3 +12,4 @@ Load Testing Innovation distinguishes between a leader and a follower. Success i
 Happiness is not something ready made. It comes from your own actions. GraphQL Lambda Functions CI/CD React
 Deployment IoT JavaScript Data Science Pull Request Frontend Cloud Functions Innovation distinguishes between a leader and a follower. Cache Invalidation Python
 Pull Request Microservices Version Control Deployment Dream big and dare to fail. Latency Optimization API GraphQL Opportunities don't happen. You create them. Logging
+Artificial Intelligence Work hard in silence, let your success be your noise. Do what you love and the money will follow. GraphQL DevOps Machine Learning To be the best, you must be able to handle the worst. Backend Innovation distinguishes between a leader and a follower. Cache Invalidation Sharding Testing Load Testing

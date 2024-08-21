@@ -9,3 +9,4 @@ WebSockets Virtual Machines Logging Dream big and dare to fail. Cloud Functions 
 Code Review Content Delivery Network Predictive Analytics Great things never come from comfort zones. OAuth Testing Lambda Functions Event Sourcing Cache Invalidation Security DNS Routing Edge Computing API Machine Learning Container Orchestration
 Neural Networks Container Orchestration Microservices Server Response Innovation distinguishes between a leader and a follower. Distributed Systems
 Event Sourcing Monitoring Container Orchestration React Server Response Deployment Testing Containerization Code Review Innovation distinguishes between a leader and a follower. A/B Testing JWT
+Virtual Machines RabbitMQ Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Neural Networks Data Pipeline Container Orchestration Data Science
