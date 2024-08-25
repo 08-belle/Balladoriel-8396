@@ -8,3 +8,4 @@ Zero Downtime Deployment Difficult roads often lead to beautiful destinations. I
 Version Control Kafka Event-driven Architecture Monitoring Automation Firewalls NLP Microservices Container Orchestration DNS Routing Machine Learning Logging Act as if what you do makes a difference. It does.
 Backend Machine Learning Success is not in what you have, but who you are. Cloud Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. Load Testing Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Testing
 Success usually comes to those who are too busy to be looking for it. Artificial Intelligence API Gateway Backend Replica Set Python Blockchain
+Algorithm Database Blockchain Python Act as if what you do makes a difference. It does. JWT Latency Optimization Data Science IoT If you can dream it, you can do it. Database Indexing
