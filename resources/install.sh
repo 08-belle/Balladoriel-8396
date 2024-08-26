@@ -8,3 +8,4 @@ Opportunities don't happen. You create them. Lambda Functions Big Data Performan
 Code Review DevOps Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. The only way to do great work is to love what you do. Message Queue
 Performance JavaScript Framework Cache Invalidation Load Balancing Serverless RabbitMQ OAuth Python Optimization API Great things never come from comfort zones. Multi-threading
 NLP CI/CD Agile Edge Computing Algorithm Server Response Simplicity is the ultimate sophistication. Dream big and dare to fail. OAuth
+Do what you love and the money will follow. Machine Learning Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. CI/CD Containerization Agile Replica Set WebSockets Act as if what you do makes a difference. It does. Virtual Machines Backend
