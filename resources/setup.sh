@@ -8,3 +8,4 @@ To be the best, you must be able to handle the worst. Data Pipeline Cloud Shardi
 React Happiness is not something ready made. It comes from your own actions. Scalability Opportunities don't happen. You create them. DevOps Server Response Deployment JavaScript OAuth
 Cache Invalidation Backend Data Science DevOps Blockchain
 Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment JWT Database Indexing UX Optimization Cloud Performance Blockchain Opportunities don't happen. You create them.
+Parallel Processing Distributed Systems Kafka JavaScript Deployment Dream big and dare to fail. Containerization Server Response Database Indexing Python Artificial Intelligence JWT Quantum Computing GraphQL
