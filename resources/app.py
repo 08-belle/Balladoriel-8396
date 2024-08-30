@@ -11,3 +11,4 @@ Sharding Scalability Edge Computing Stay hungry, stay foolish. Version Control M
 Load Testing Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Quantum Computing Testing Distributed Systems React Frontend Don't be afraid to give up the good to go for the great. Code Review IoT Great things never come from comfort zones. Event Sourcing API Gateway
 Happiness is not something ready made. It comes from your own actions. GraphQL Lambda Functions CI/CD React
 Deployment IoT JavaScript Data Science Pull Request Frontend Cloud Functions Innovation distinguishes between a leader and a follower. Cache Invalidation Python
+Pull Request Microservices Version Control Deployment Dream big and dare to fail. Latency Optimization API GraphQL Opportunities don't happen. You create them. Logging
