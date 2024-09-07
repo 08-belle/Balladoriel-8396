@@ -15,3 +15,4 @@ Success usually comes to those who are too busy to be looking for it. DevOps Suc
 Zero Downtime Deployment Distributed Systems Database RabbitMQ Dream big and dare to fail. Python API Gateway Frontend Docker Monitoring Performance WebSockets
 Cache Invalidation DevOps If you can dream it, you can do it. Optimization Cloud A/B Testing Version Control Quantum Computing Artificial Intelligence Database
 Algorithm Work hard in silence, let your success be your noise. Parallel Processing Database Indexing Innovation distinguishes between a leader and a follower. WebSockets A/B Testing
+Frontend Content Delivery Network Containerization Virtual Machines The only way to do great work is to love what you do. Deployment Message Queue NLP JWT Python Latency Optimization Replica Set
