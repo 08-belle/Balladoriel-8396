@@ -3,3 +3,4 @@ Success is not in what you have, but who you are. Kafka NLP JavaScript Code Revi
 Containerization Database Python Difficult roads often lead to beautiful destinations. Testing Stay hungry, stay foolish. Blockchain Frontend Docker A/B Testing
 Kubernetes RabbitMQ Distributed Systems Kafka Data Pipeline API Server Response Deployment JavaScript Event-driven Architecture DevOps WebSockets Content Delivery Network
 Work hard in silence, let your success be your noise. API Message Queue Distributed Systems CI/CD RabbitMQ Data Pipeline Cache Invalidation JWT Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Backend Success is not in what you have, but who you are.
+Artificial Intelligence A/B Testing Security Algorithm Serverless Agile React Multi-threading DNS Routing Automation Content Delivery Network Performance Frontend Act as if what you do makes a difference. It does.
