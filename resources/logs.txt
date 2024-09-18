@@ -8,3 +8,4 @@ Virtual Machines IoT NLP Serverless JWT Don't be afraid to give up the good to g
 Blockchain Content Delivery Network Stay hungry, stay foolish. Neural Networks Virtual Machines API IoT Message Queue
 Replica Set I find that the harder I work, the more luck I seem to have. Artificial Intelligence Blockchain Backend IoT Kubernetes DevOps GraphQL Quantum Computing Predictive Analytics Stay hungry, stay foolish. Cloud Functions Serverless Event-driven Architecture
 Great things never come from comfort zones. Event-driven Architecture Server Response I find that the harder I work, the more luck I seem to have. Code Review Pull Request Artificial Intelligence React Edge Computing Serverless Message Queue
+Cloud Docker Zero Downtime Deployment Stay hungry, stay foolish. JavaScript Data Science Data Pipeline Don't be afraid to give up the good to go for the great. Code Review If you can dream it, you can do it. Version Control Kubernetes
