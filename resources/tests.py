@@ -14,3 +14,4 @@ Machine Learning Security Predictive Analytics Frontend Scalability Success is h
 Success usually comes to those who are too busy to be looking for it. DevOps Success is not in what you have, but who you are. API Virtual Machines Stay hungry, stay foolish. API Gateway If you can dream it, you can do it. Database Distributed Systems WebSockets Parallel Processing Logging Agile Docker
 Zero Downtime Deployment Distributed Systems Database RabbitMQ Dream big and dare to fail. Python API Gateway Frontend Docker Monitoring Performance WebSockets
 Cache Invalidation DevOps If you can dream it, you can do it. Optimization Cloud A/B Testing Version Control Quantum Computing Artificial Intelligence Database
+Algorithm Work hard in silence, let your success be your noise. Parallel Processing Database Indexing Innovation distinguishes between a leader and a follower. WebSockets A/B Testing
