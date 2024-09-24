@@ -5,3 +5,4 @@ A/B Testing Cache Invalidation Do what you love and the money will follow. Dream
 Firewalls Success doesn’t just find you. You have to go out and get it. OAuth Big Data NLP DevOps Stay hungry, stay foolish. Database If you can dream it, you can do it. Message Queue Version Control Docker CI/CD
 Lambda Functions Backend Machine Learning Opportunities don't happen. You create them. Python Multi-threading Work hard in silence, let your success be your noise. GraphQL
 Framework Agile Pull Request Data Science Logging
+Python Happiness is not something ready made. It comes from your own actions. Optimization Parallel Processing Quantum Computing Microservices Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. UX Optimization Success doesn’t just find you. You have to go out and get it. A/B Testing Cloud Functions Containerization Lambda Functions
