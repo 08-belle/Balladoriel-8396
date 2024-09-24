@@ -6,3 +6,4 @@ Replica Set Event-driven Architecture Cloud Stay hungry, stay foolish. Edge Comp
 GraphQL WebSockets Firewalls Kubernetes Simplicity is the ultimate sophistication. RabbitMQ UX Optimization Blockchain Version Control API
 Virtual Machines IoT NLP Serverless JWT Don't be afraid to give up the good to go for the great. Optimization
 Blockchain Content Delivery Network Stay hungry, stay foolish. Neural Networks Virtual Machines API IoT Message Queue
+Replica Set I find that the harder I work, the more luck I seem to have. Artificial Intelligence Blockchain Backend IoT Kubernetes DevOps GraphQL Quantum Computing Predictive Analytics Stay hungry, stay foolish. Cloud Functions Serverless Event-driven Architecture
