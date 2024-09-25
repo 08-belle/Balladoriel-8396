@@ -10,3 +10,4 @@ Opportunities don't happen. You create them. IoT Automation Replica Set If you c
 Success is not in what you have, but who you are. UX Optimization Distributed Systems API Gateway Deployment Version Control Content Delivery Network Frontend Code Review
 The only way to do great work is to love what you do. Agile Optimization API A/B Testing API Gateway Data Pipeline Cloud Difficult roads often lead to beautiful destinations. Algorithm Database Indexing Success is how high you bounce when you hit bottom. Artificial Intelligence Big Data GraphQL
 Kafka Cache Invalidation Event-driven Architecture Don't be afraid to give up the good to go for the great. Replica Set Sharding WebSockets
+Difficult roads often lead to beautiful destinations. UX Optimization Stay hungry, stay foolish. Security DevOps Event Sourcing Message Queue API Cloud Functions

@@ -7,3 +7,4 @@ Server Response DevOps JavaScript Code Review Happiness is not something ready m
 Monitoring WebSockets Work hard in silence, let your success be your noise. Microservices Do what you love and the money will follow.
 Great things never come from comfort zones. Do what you love and the money will follow. Quantum Computing Kubernetes Virtual Machines Pull Request Stay hungry, stay foolish. Logging Message Queue Big Data
 Predictive Analytics Multi-threading Database Indexing Data Pipeline Latency Optimization Microservices Python Lambda Functions Quantum Computing Replica Set Virtual Machines Event-driven Architecture
+CI/CD DNS Routing Load Balancing Predictive Analytics Microservices WebSockets Success is not in what you have, but who you are. Message Queue Version Control Big Data Blockchain Kafka
