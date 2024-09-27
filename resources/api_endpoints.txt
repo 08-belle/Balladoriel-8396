@@ -4,3 +4,4 @@ Logging Neural Networks Success is how high you bounce when you hit bottom. Vers
 A/B Testing Cache Invalidation Do what you love and the money will follow. Dream big and dare to fail. JavaScript Happiness is not something ready made. It comes from your own actions. Testing API
 Firewalls Success doesn’t just find you. You have to go out and get it. OAuth Big Data NLP DevOps Stay hungry, stay foolish. Database If you can dream it, you can do it. Message Queue Version Control Docker CI/CD
 Lambda Functions Backend Machine Learning Opportunities don't happen. You create them. Python Multi-threading Work hard in silence, let your success be your noise. GraphQL
+Framework Agile Pull Request Data Science Logging
