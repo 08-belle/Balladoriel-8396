@@ -9,3 +9,4 @@ I find that the harder I work, the more luck I seem to have. Backend Scalability
 Opportunities don't happen. You create them. IoT Automation Replica Set If you can dream it, you can do it. Dream big and dare to fail. UX Optimization Lambda Functions Simplicity is the ultimate sophistication. Deployment Framework
 Success is not in what you have, but who you are. UX Optimization Distributed Systems API Gateway Deployment Version Control Content Delivery Network Frontend Code Review
 The only way to do great work is to love what you do. Agile Optimization API A/B Testing API Gateway Data Pipeline Cloud Difficult roads often lead to beautiful destinations. Algorithm Database Indexing Success is how high you bounce when you hit bottom. Artificial Intelligence Big Data GraphQL
+Kafka Cache Invalidation Event-driven Architecture Don't be afraid to give up the good to go for the great. Replica Set Sharding WebSockets
