@@ -6,3 +6,4 @@ Predictive Analytics Backend Success usually comes to those who are too busy to 
 Serverless Load Testing Success is not in what you have, but who you are. Agile Deployment Distributed Systems Difficult roads often lead to beautiful destinations.
 To be the best, you must be able to handle the worst. Data Pipeline Cloud Sharding Data Science Success is how high you bounce when you hit bottom. Edge Computing Microservices JWT Virtual Machines Blockchain Distributed Systems
 React Happiness is not something ready made. It comes from your own actions. Scalability Opportunities don't happen. You create them. DevOps Server Response Deployment JavaScript OAuth
+Cache Invalidation Backend Data Science DevOps Blockchain
