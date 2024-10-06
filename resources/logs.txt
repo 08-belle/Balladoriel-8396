@@ -5,3 +5,4 @@ Opportunities don't happen. You create them. API Gateway Cache Invalidation NLP 
 Replica Set Event-driven Architecture Cloud Stay hungry, stay foolish. Edge Computing Event Sourcing DevOps Data Science
 GraphQL WebSockets Firewalls Kubernetes Simplicity is the ultimate sophistication. RabbitMQ UX Optimization Blockchain Version Control API
 Virtual Machines IoT NLP Serverless JWT Don't be afraid to give up the good to go for the great. Optimization
+Blockchain Content Delivery Network Stay hungry, stay foolish. Neural Networks Virtual Machines API IoT Message Queue

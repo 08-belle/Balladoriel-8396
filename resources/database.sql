@@ -6,3 +6,4 @@ Difficult roads often lead to beautiful destinations. Great things never come fr
 DevOps Docker Containerization Container Orchestration Message Queue
 Success doesn’t just find you. You have to go out and get it. Quantum Computing Serverless Simplicity is the ultimate sophistication. Database Indexing Testing Deployment Monitoring Cloud UX Optimization Do what you love and the money will follow.
 Do what you love and the money will follow. DevOps Event-driven Architecture Cloud Functions Success usually comes to those who are too busy to be looking for it.
+Neural Networks Load Balancing Framework Algorithm Container Orchestration Automation Parallel Processing Success is how high you bounce when you hit bottom. WebSockets Testing Replica Set Predictive Analytics Innovation distinguishes between a leader and a follower. Logging Data Science
