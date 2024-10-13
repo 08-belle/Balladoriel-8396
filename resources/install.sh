@@ -7,3 +7,4 @@ WebSockets Algorithm CI/CD To be the best, you must be able to handle the worst.
 Opportunities don't happen. You create them. Lambda Functions Big Data Performance A/B Testing Logging
 Code Review DevOps Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. The only way to do great work is to love what you do. Message Queue
 Performance JavaScript Framework Cache Invalidation Load Balancing Serverless RabbitMQ OAuth Python Optimization API Great things never come from comfort zones. Multi-threading
+NLP CI/CD Agile Edge Computing Algorithm Server Response Simplicity is the ultimate sophistication. Dream big and dare to fail. OAuth
