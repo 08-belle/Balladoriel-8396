@@ -5,3 +5,4 @@ Distributed Systems Difficult roads often lead to beautiful destinations. Databa
 Containerization Code Review API Gateway Python Virtual Machines Happiness is not something ready made. It comes from your own actions. Latency Optimization Logging Difficult roads often lead to beautiful destinations.
 Server Response DevOps JavaScript Code Review Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Version Control Security
 Monitoring WebSockets Work hard in silence, let your success be your noise. Microservices Do what you love and the money will follow.
+Great things never come from comfort zones. Do what you love and the money will follow. Quantum Computing Kubernetes Virtual Machines Pull Request Stay hungry, stay foolish. Logging Message Queue Big Data
