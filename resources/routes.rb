@@ -8,3 +8,4 @@ DNS Routing Event Sourcing Blockchain API Gateway NLP To be the best, you must b
 UX Optimization Machine Learning Logging Content Delivery Network Lambda Functions Testing
 Container Orchestration Event Sourcing Backend RabbitMQ Code Review Automation Success doesn’t just find you. You have to go out and get it. Docker Event-driven Architecture DevOps DNS Routing CI/CD Kubernetes
 NLP Load Balancing Predictive Analytics Neural Networks Machine Learning Database Cloud Functions React Work hard in silence, let your success be your noise. GraphQL Happiness is not something ready made. It comes from your own actions. Message Queue Simplicity is the ultimate sophistication. Firewalls
+Cache Invalidation Sharding Optimization RabbitMQ Kafka JavaScript Testing Kubernetes Container Orchestration Load Balancing Version Control Security Quantum Computing Lambda Functions DNS Routing
