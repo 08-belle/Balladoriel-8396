@@ -7,3 +7,4 @@ Act as if what you do makes a difference. It does. Success is not in what you ha
 Firewalls Security Microservices Optimization Success doesn’t just find you. You have to go out and get it. Backend
 I find that the harder I work, the more luck I seem to have. Backend Scalability Virtual Machines Serverless Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Edge Computing Quantum Computing DNS Routing A/B Testing Database Indexing
 Opportunities don't happen. You create them. IoT Automation Replica Set If you can dream it, you can do it. Dream big and dare to fail. UX Optimization Lambda Functions Simplicity is the ultimate sophistication. Deployment Framework
+Success is not in what you have, but who you are. UX Optimization Distributed Systems API Gateway Deployment Version Control Content Delivery Network Frontend Code Review
