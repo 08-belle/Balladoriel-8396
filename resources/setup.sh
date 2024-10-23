@@ -4,3 +4,4 @@ Code Review Logging Container Orchestration Cloud Functions Load Testing Load Ba
 Predictive Analytics RabbitMQ Neural Networks Cloud Message Queue Artificial Intelligence Content Delivery Network A/B Testing OAuth GraphQL Optimization Backend Monitoring JavaScript Testing
 Predictive Analytics Backend Success usually comes to those who are too busy to be looking for it. Logging Scalability Container Orchestration API Data Pipeline Microservices Server Response Deployment Kubernetes The only way to do great work is to love what you do. Agile
 Serverless Load Testing Success is not in what you have, but who you are. Agile Deployment Distributed Systems Difficult roads often lead to beautiful destinations.
+To be the best, you must be able to handle the worst. Data Pipeline Cloud Sharding Data Science Success is how high you bounce when you hit bottom. Edge Computing Microservices JWT Virtual Machines Blockchain Distributed Systems
