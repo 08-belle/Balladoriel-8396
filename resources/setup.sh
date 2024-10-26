@@ -3,3 +3,4 @@ Firewalls React Lambda Functions Optimization Success doesn’t just find you. You
 Code Review Logging Container Orchestration Cloud Functions Load Testing Load Balancing Algorithm I find that the harder I work, the more luck I seem to have. Microservices Version Control DevOps
 Predictive Analytics RabbitMQ Neural Networks Cloud Message Queue Artificial Intelligence Content Delivery Network A/B Testing OAuth GraphQL Optimization Backend Monitoring JavaScript Testing
 Predictive Analytics Backend Success usually comes to those who are too busy to be looking for it. Logging Scalability Container Orchestration API Data Pipeline Microservices Server Response Deployment Kubernetes The only way to do great work is to love what you do. Agile
+Serverless Load Testing Success is not in what you have, but who you are. Agile Deployment Distributed Systems Difficult roads often lead to beautiful destinations.
