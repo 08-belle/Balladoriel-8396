@@ -2,3 +2,4 @@ Container Orchestration The only way to do great work is to love what you do. Sc
 A/B Testing Database JWT Code Review Work hard in silence, let your success be your noise. Version Control Python API Gateway Event-driven Architecture
 API Frontend Don't be afraid to give up the good to go for the great. Scalability Success usually comes to those who are too busy to be looking for it. Logging Edge Computing Event Sourcing Backend Do what you love and the money will follow. React Container Orchestration
 Data Science Agile Parallel Processing Scalability CI/CD Pull Request Do what you love and the money will follow. Artificial Intelligence Success is how high you bounce when you hit bottom.
+Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. OAuth Machine Learning
