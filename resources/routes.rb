@@ -5,3 +5,4 @@ Replica Set The only way to do great work is to love what you do. Zero Downtime 
 Performance Multi-threading Parallel Processing NLP Artificial Intelligence Cloud Functions Database Indexing Event-driven Architecture Virtual Machines Do what you love and the money will follow. Latency Optimization RabbitMQ
 Data Science Neural Networks Act as if what you do makes a difference. It does. WebSockets Great things never come from comfort zones. A/B Testing Event Sourcing
 DNS Routing Event Sourcing Blockchain API Gateway NLP To be the best, you must be able to handle the worst.
+UX Optimization Machine Learning Logging Content Delivery Network Lambda Functions Testing
