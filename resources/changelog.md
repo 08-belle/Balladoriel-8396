@@ -3,3 +3,4 @@ Server Response React Do what you love and the money will follow. IoT Stay hungr
 CI/CD Dream big and dare to fail. Performance Containerization Cloud Functions
 Distributed Systems Difficult roads often lead to beautiful destinations. Database Indexing OAuth Serverless Act as if what you do makes a difference. It does. Server Response
 Containerization Code Review API Gateway Python Virtual Machines Happiness is not something ready made. It comes from your own actions. Latency Optimization Logging Difficult roads often lead to beautiful destinations.
+Server Response DevOps JavaScript Code Review Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Version Control Security
