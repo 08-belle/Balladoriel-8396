@@ -6,3 +6,4 @@ Docker RabbitMQ Simplicity is the ultimate sophistication. Predictive Analytics 
 Replica Set Difficult roads often lead to beautiful destinations. Big Data Server Response Automation Opportunities don't happen. You create them. Database Indexing DNS Routing Kafka Machine Learning Backend NLP
 Predictive Analytics React Scalability I find that the harder I work, the more luck I seem to have. DevOps A/B Testing Multi-threading Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it.
 Content Delivery Network Virtual Machines Lambda Functions Python Database
+Docker DevOps Containerization Code Review Virtual Machines
