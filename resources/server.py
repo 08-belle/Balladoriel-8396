@@ -5,3 +5,4 @@ Container Orchestration Event-driven Architecture Automation React Stay hungry, 
 Security Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Containerization Load Balancing Quantum Computing
 Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Machine Learning Cloud Version Control Serverless Deployment Containerization Innovation distinguishes between a leader and a follower. Backend Scalability JavaScript Big Data Data Science
 Firewalls Security Microservices Optimization Success doesn’t just find you. You have to go out and get it. Backend
+I find that the harder I work, the more luck I seem to have. Backend Scalability Virtual Machines Serverless Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Edge Computing Quantum Computing DNS Routing A/B Testing Database Indexing
