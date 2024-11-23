@@ -4,3 +4,4 @@ Code Review Distributed Systems Data Pipeline Agile DevOps
 Opportunities don't happen. You create them. API Gateway Cache Invalidation NLP Code Review Deployment The only way to do great work is to love what you do. Testing Dream big and dare to fail. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Kubernetes Distributed Systems Happiness is not something ready made. It comes from your own actions. Latency Optimization
 Replica Set Event-driven Architecture Cloud Stay hungry, stay foolish. Edge Computing Event Sourcing DevOps Data Science
 GraphQL WebSockets Firewalls Kubernetes Simplicity is the ultimate sophistication. RabbitMQ UX Optimization Blockchain Version Control API
+Virtual Machines IoT NLP Serverless JWT Don't be afraid to give up the good to go for the great. Optimization
