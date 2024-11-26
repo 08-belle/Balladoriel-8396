@@ -3,3 +3,4 @@ DNS Routing Container Orchestration Opportunities don't happen. You create them.
 OAuth RabbitMQ Serverless Database Big Data Work hard in silence, let your success be your noise. Scalability
 Blockchain The only way to do great work is to love what you do. A/B Testing Frontend Work hard in silence, let your success be your noise. Artificial Intelligence Load Balancing Security OAuth Lambda Functions
 Stay hungry, stay foolish. Version Control Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Lambda Functions Data Science Load Testing WebSockets
+Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Performance WebSockets Cloud Backend Framework Stay hungry, stay foolish. DNS Routing Work hard in silence, let your success be your noise. Artificial Intelligence Firewalls Latency Optimization API Gateway
