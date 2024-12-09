@@ -2,3 +2,4 @@ Difficult roads often lead to beautiful destinations. Logging JWT Distributed Sy
 DNS Routing Container Orchestration Opportunities don't happen. You create them. Zero Downtime Deployment Testing API Gateway Data Science
 OAuth RabbitMQ Serverless Database Big Data Work hard in silence, let your success be your noise. Scalability
 Blockchain The only way to do great work is to love what you do. A/B Testing Frontend Work hard in silence, let your success be your noise. Artificial Intelligence Load Balancing Security OAuth Lambda Functions
+Stay hungry, stay foolish. Version Control Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Lambda Functions Data Science Load Testing WebSockets
