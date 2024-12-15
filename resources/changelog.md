@@ -2,3 +2,4 @@ Lambda Functions Content Delivery Network Virtual Machines Docker Data Science I
 Server Response React Do what you love and the money will follow. IoT Stay hungry, stay foolish. Latency Optimization Lambda Functions Docker To be the best, you must be able to handle the worst.
 CI/CD Dream big and dare to fail. Performance Containerization Cloud Functions
 Distributed Systems Difficult roads often lead to beautiful destinations. Database Indexing OAuth Serverless Act as if what you do makes a difference. It does. Server Response
+Containerization Code Review API Gateway Python Virtual Machines Happiness is not something ready made. It comes from your own actions. Latency Optimization Logging Difficult roads often lead to beautiful destinations.
