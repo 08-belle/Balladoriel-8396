@@ -1,2 +1,3 @@
 Cloud Functions RabbitMQ Success usually comes to those who are too busy to be looking for it. Kubernetes Dream big and dare to fail. Predictive Analytics DevOps Serverless Replica Set Backend Cloud Sharding Multi-threading Edge Computing Message Queue
 Firewalls React Lambda Functions Optimization Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Machine Learning Database I find that the harder I work, the more luck I seem to have. IoT Edge Computing Kafka JavaScript Message Queue
+Code Review Logging Container Orchestration Cloud Functions Load Testing Load Balancing Algorithm I find that the harder I work, the more luck I seem to have. Microservices Version Control DevOps
