@@ -1,3 +1,4 @@
 Don't be afraid to give up the good to go for the great. Docker Machine Learning Framework Edge Computing Cloud Serverless Backend Scalability Replica Set Stay hungry, stay foolish. API JWT Event Sourcing
 Multi-threading Event-driven Architecture Data Pipeline Success is how high you bounce when you hit bottom. Automation A/B Testing Load Balancing Happiness is not something ready made. It comes from your own actions. Scalability
 RabbitMQ Zero Downtime Deployment Do what you love and the money will follow. Data Pipeline Success usually comes to those who are too busy to be looking for it. Edge Computing Server Response
+Edge Computing Cache Invalidation Database Latency Optimization Agile Testing Frontend Monitoring Quantum Computing Success usually comes to those who are too busy to be looking for it. Load Testing Event Sourcing The only way to do great work is to love what you do. Artificial Intelligence Work hard in silence, let your success be your noise.
