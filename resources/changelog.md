@@ -1,2 +1,3 @@
 Lambda Functions Content Delivery Network Virtual Machines Docker Data Science Innovation distinguishes between a leader and a follower. Artificial Intelligence Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Logging DevOps Event-driven Architecture Parallel Processing
 Server Response React Do what you love and the money will follow. IoT Stay hungry, stay foolish. Latency Optimization Lambda Functions Docker To be the best, you must be able to handle the worst.
+CI/CD Dream big and dare to fail. Performance Containerization Cloud Functions
