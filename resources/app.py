@@ -1,1 +1,2 @@
 Don't be afraid to give up the good to go for the great. Docker Machine Learning Framework Edge Computing Cloud Serverless Backend Scalability Replica Set Stay hungry, stay foolish. API JWT Event Sourcing
+Multi-threading Event-driven Architecture Data Pipeline Success is how high you bounce when you hit bottom. Automation A/B Testing Load Balancing Happiness is not something ready made. It comes from your own actions. Scalability
