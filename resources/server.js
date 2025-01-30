@@ -1,0 +1,1 @@
+Scalability I find that the harder I work, the more luck I seem to have. API Gateway Big Data Logging NLP Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Version Control
