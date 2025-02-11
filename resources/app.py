@@ -1,0 +1,1 @@
+Don't be afraid to give up the good to go for the great. Docker Machine Learning Framework Edge Computing Cloud Serverless Backend Scalability Replica Set Stay hungry, stay foolish. API JWT Event Sourcing
