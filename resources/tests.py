@@ -1,0 +1,1 @@
+Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Edge Computing Data Science Backend Containerization Scalability Stay hungry, stay foolish. GraphQL Message Queue Firewalls
